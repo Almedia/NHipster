@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Confluent.Kafka" Version="0.11.6" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Hipster.Domain\Hipster.Domain.csproj" />
+    <ProjectReference Include="..\Hipster.Repository\Hipster.Repository.csproj" />
+    <ProjectReference Include="..\Hipster.ApplicationService\Hipster.ApplicationService.csproj" />
+  </ItemGroup>
+
+</Project>

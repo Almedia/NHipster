@@ -1,0 +1,12 @@
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/bin/Debug/netstandard2.0/Hipster.ApplicationService.deps.json
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/bin/Debug/netstandard2.0/Hipster.ApplicationService.dll
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/bin/Debug/netstandard2.0/Hipster.ApplicationService.pdb
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/bin/Debug/netstandard2.0/Hipster.Domain.dll
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/bin/Debug/netstandard2.0/Hipster.Domain.pdb
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/obj/Debug/netstandard2.0/Hipster.ApplicationService.csprojAssemblyReference.cache
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/obj/Debug/netstandard2.0/Hipster.ApplicationService.csproj.CoreCompileInputs.cache
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/obj/Debug/netstandard2.0/Hipster.ApplicationService.AssemblyInfoInputs.cache
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/obj/Debug/netstandard2.0/Hipster.ApplicationService.AssemblyInfo.cs
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/obj/Debug/netstandard2.0/Hipster.ApplicationService.csproj.CopyComplete
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/obj/Debug/netstandard2.0/Hipster.ApplicationService.dll
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.ApplicationService/obj/Debug/netstandard2.0/Hipster.ApplicationService.pdb

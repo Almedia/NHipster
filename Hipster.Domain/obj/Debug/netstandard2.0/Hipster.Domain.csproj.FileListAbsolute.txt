@@ -1,0 +1,8 @@
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.Domain/bin/Debug/netstandard2.0/Hipster.Domain.deps.json
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.Domain/bin/Debug/netstandard2.0/Hipster.Domain.dll
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.Domain/bin/Debug/netstandard2.0/Hipster.Domain.pdb
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.Domain/obj/Debug/netstandard2.0/Hipster.Domain.csproj.CoreCompileInputs.cache
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.Domain/obj/Debug/netstandard2.0/Hipster.Domain.AssemblyInfoInputs.cache
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.Domain/obj/Debug/netstandard2.0/Hipster.Domain.AssemblyInfo.cs
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.Domain/obj/Debug/netstandard2.0/Hipster.Domain.dll
+/Users/bahadirozdemir/Templates/core/Hipster/Hipster.Domain/obj/Debug/netstandard2.0/Hipster.Domain.pdb
